@@ -19,5 +19,5 @@ leetcode weekly
 对于该样例，我们可以在x = 6（射爆[2,8],[1,6]两个气球）和 x = 11（射爆另外两个气球）。
 ```
 ### Impl
-[find_min_arrow_shots.py](https://github.com/freedomlidi/my-leetcode/blob/master/202004/find_min_arrow_shots.py)
+[find_min_arrow_shots.py](https://github.com/ssfanli/my-leetcode/blob/master/202004/find_min_arrow_shots.py)
 
