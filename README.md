@@ -85,3 +85,28 @@ class Solution:
             else:
                 return 0
 ```
+
+## 回文数/20200621
+
+### Topic
+
+例如：121，232，22，...
+
+## [Code](https://github.com/ssfanli/my-leetcode/blob/master/202006/palindrome.py)
+
+```python
+
+...
+    def isPalindrome(self, x: int) -> bool:
+        if x < 0:
+            return False
+        if str(x) == str(x)[::-1]:
+            return True
+        else:
+            return False
+
+    def isPalindrome2(self, x: int) -> bool:
+        return str(x) == str(x)[::-1]
+...
+
+```
