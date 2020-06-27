@@ -1,4 +1,3 @@
-[TOC]
 # my-leetcode
 
 leetcode weekly
