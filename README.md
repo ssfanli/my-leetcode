@@ -1,4 +1,6 @@
+[TOC]
 # my-leetcode
+
 leetcode weekly
 
 ## 用最少数量的箭引爆气球/20200404
@@ -18,7 +20,7 @@ leetcode weekly
 解释:
 对于该样例，我们可以在x = 6（射爆[2,8],[1,6]两个气球）和 x = 11（射爆另外两个气球）。
 ```
-### Impl
+### Code
 [find_min_arrow_shots.py](https://github.com/ssfanli/my-leetcode/blob/master/202004/find_min_arrow_shots.py)
 
 ## 两数之和/20200524
